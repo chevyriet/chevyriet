@@ -1,5 +1,5 @@
 ### Welcome
-- 20 year old 4th year computer science student from the Netherlands.
+- 21 year old 4th year computer science student from the Netherlands.
 - Experience with a wide variety of programming languages and frameworks. 
 - Mayority of my projects/work is not visible for privacy or legal reasons. Still interested? Reach out to me:
 
